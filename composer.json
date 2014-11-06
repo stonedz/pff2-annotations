@@ -3,7 +3,7 @@
 	"type": "pff2-module",
 	"description": "MongoDb module for pff2",
 	"license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
 	"keywords": [
 		"pff2", "module", "db", "mongodb"
 	],
