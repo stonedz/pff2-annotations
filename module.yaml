@@ -1,6 +1,6 @@
 name: pff2-annotations
 version: "0.1"
-desc: Annotations module
+desc: Annotations module manager
 class: Pff2Annotations
 requires_php_extension:
   - apc
