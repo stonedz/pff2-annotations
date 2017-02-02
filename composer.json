@@ -1,7 +1,7 @@
 {
 	"name": "stonedz/pff2-annotations",
 	"type": "pff2-module",
-	"description": "MongoDb module for pff2",
+	"description": "Annotations lib for pff2",
 	"license": "MIT",
     "minimum-stability": "dev",
 	"keywords": [
