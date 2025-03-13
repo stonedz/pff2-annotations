@@ -7,7 +7,7 @@ use pff\Abs\AModule;
 use pff\Iface\IBeforeHook;
 use Minime\Annotations\Reader;
 use Minime\Annotations\Parser;
-use Minime\Annotations\Cache\Arraycache;
+use Minime\Annotations\Cache\ArrayCache;
 
 class Pff2Annotations extends AModule implements IBeforeHook
 {
